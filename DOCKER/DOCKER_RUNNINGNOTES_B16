@@ -323,7 +323,7 @@ docker
 ========================================================================= 
 Dockerizing sample python web-application : 
 ====== 
-Code : /opt/app.py 
+Code : /opt/python_webapp/app.py
 
 import os
 from flask import Flask
